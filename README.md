@@ -1,5 +1,5 @@
 - 學號：251011119
-- 姓名：軟式選鶬
+- 姓名：軟氏玄鶬
 - 班級：資管大一
 - 作品網址：https://s25101119-jpg.github.io/portfolio
 - GitHub Repo：https://github.com/s25101119-jpg/portfolio
